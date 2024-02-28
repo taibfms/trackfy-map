@@ -1,0 +1,23 @@
+Clone o repositório:
+
+Abra o terminal.
+Execute o comando git clone https://github.com/seu-usuario/nome-do-repositorio.git para clonar o repositório para o seu computador.
+Substitua seu-usuario pelo seu nome de usuário do GitHub e nome-do-repositorio pelo nome do seu repositório.
+Instale as dependências:
+
+Navegue até o diretório do projeto no terminal.
+Execute o comando npm install para instalar as dependências do projeto.
+Inicie a aplicação:
+
+Após a instalação das dependências, execute o comando npm start para iniciar a aplicação.
+O servidor de desenvolvimento será iniciado e a aplicação estará disponível em http://localhost:3000.
+Visualize a aplicação:
+
+Abra um navegador web e acesse http://localhost:3000 para visualizar a aplicação.
+Interaja com a aplicação:
+
+Você pode interagir com a aplicação no navegador.
+Qualquer alteração no código-fonte será automaticamente atualizada no navegador.
+Para parar a execução da aplicação, pressione Ctrl + C no terminal.
+
+Certifique-se de que o Node.js e o npm estejam instalados em seu sistema antes de seguir essas instruções.
